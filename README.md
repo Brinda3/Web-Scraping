@@ -11,7 +11,7 @@ TOOLS: PYTHON, REQUESTS, PANDAS, BEAUTIFUL SOUP
 - for each topic we'll create a CSV file.
 
 Created this project in Jovian:
-jovian link:https://jovian.ai/brindaparthiban13/scraping-github-topics-repositories-5a873
+jovian link: https://jovian.ai/brindaparthiban13/scraping-github-topics-repositories-5a873
 
 
 ## Scrape the list of topics from Github
